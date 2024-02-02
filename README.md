@@ -19,5 +19,7 @@ Contributions:
 Quotes:
 
 ~  "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."
+
 ~ "Remember to look up at the stars and not down at your feet."
+
 ~ "Intelligence is the ability to adapt to change."
