@@ -1,5 +1,7 @@
                                               REMEMBERING STEPHEN HAWKING
 
+![image](https://github.com/linsey9534/tribute-website/assets/140651301/3c79d77f-ec70-4829-be4d-7b508e7b2f6b)
+
 Biography:
 
 ~ Stephen William Hawking (1942-2018) was a renowned theoretical physicist, cosmologist, and author. Born in Oxford, England, Hawking showed an early interest in the sciences and mathematics.
@@ -23,4 +25,4 @@ Quotes:
 ~ "Remember to look up at the stars and not down at your feet."
 
 ~ "Intelligence is the ability to adapt to change."
-![image](https://github.com/linsey9534/tribute-website/assets/140651301/5648266d-030e-46c2-99aa-a9ac11781384)
+
