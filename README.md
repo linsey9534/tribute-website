@@ -23,3 +23,4 @@ Quotes:
 ~ "Remember to look up at the stars and not down at your feet."
 
 ~ "Intelligence is the ability to adapt to change."
+![image](https://github.com/linsey9534/tribute-website/assets/140651301/5648266d-030e-46c2-99aa-a9ac11781384)
